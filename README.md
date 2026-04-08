@@ -18,9 +18,8 @@
         text-anchor="middle"
         x="50%">
 
-    <textPath href="#path0">
+    
       Hi 👋, I'm Nupriya — AI/ML Engineer 🚀
-    </textPath>
 
   </text>
 
