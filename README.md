@@ -13,6 +13,11 @@
 
 Hi, I'm **Nupriya** 💫  
 An **AI Engineer & Data Science Enthusiast** who loves turning ideas into intelligent, real-world solutions.
+🔭 I'm currently working on — AI/ML projects involving predictive analytics, LLM-powered applications, and real-world data-driven solutions across multiple domains including Agritech, FinTech, E-commerce, and Retail.
+
+🌱 I'm currently learning — advanced LLM applications, RAG architectures, and scalable AI/ML system design.
+
+👯 I'm looking to collaborate on — AI/ML and LLM-based projects across sectors such as Agritech, FinTech, E-commerce, Retail, and Government.
 
 - 💡 Passionate about building **AI-driven applications**
 - 🧠 Skilled in **Machine Learning, Deep Learning & Neural Networks**
