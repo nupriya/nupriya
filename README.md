@@ -1,7 +1,7 @@
 ![WhatsApp Image 2026-04-08 at 1 35 05 PM](https://github.com/user-attachments/assets/5845427e-82e2-4e1c-b814-c556890de771)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nupriya+Saxena+—+AI%2FML+Developer+🚀;Turning+Data+into+Intelligence+✨+%7C+Predictive+Analytics+%26+LLM+Applications+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+Nupriya+Saxena+—+AI%2FML+Developer+🚀;Turning+Data+into+Intelligence+✨+%7C+Predictive+Analytics+%26+LLM+Applications+Builder" />
 </p>
  
 <p align="center">
