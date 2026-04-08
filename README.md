@@ -1,4 +1,7 @@
-# 💫 About Me
+<!-- 🌑 DARK HEADER -->
+<h1 align="center">💫 About Me</h1>
+
+---
 
 ## 👋 About Me
 
@@ -31,52 +34,75 @@ I love combining **technology + creativity** — from AI systems to visual Pytho
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nupriya-saxena)  
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nupriyait@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/nupriya-saxena">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:nupriyait@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=red)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+<img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=red"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nupriya&theme=tokyonight&hide_border=true&include_all_commits=true)  
-![](https://streak-stats.demolab.com?user=nupriya&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nupriya&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nupriya&theme=tokyonight&hide_border=true&bg_color=00000000&show_icons=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=nupriya&theme=tokyonight&hide_border=true&background=00000000" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupriya&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact" height="150"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nupriya&theme=onedark&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nupriya&theme=onedark&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=nupriya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nupriya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=nupriya&icon=5&color=12)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nupriya&icon=5&color=12"/>
+</p>
