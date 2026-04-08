@@ -1,12 +1,11 @@
 ![WhatsApp Image 2026-04-08 at 1 35 05 PM](https://github.com/user-attachments/assets/5845427e-82e2-4e1c-b814-c556890de771)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nupriya;AI%2FML+Engineer+🧠;Building+Farmoid+🌾;Turning+Data+into+Intelligence+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nupriya;AI%2FML+Engineer+🧠;Turning+Data+into+Intelligence+✨" />
 </p>
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nupriya&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
-  <img src="https://visitcount.itsvg.in/api?id=nupriya&icon=5&color=12"/>
+  <img src="https://komarev.com/ghpvc/?username=nupriya&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>  
 </p>
 
 <!-- 🌑 DARK HEADER -->
