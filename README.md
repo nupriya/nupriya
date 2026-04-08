@@ -1,35 +1,26 @@
 ![WhatsApp Image 2026-04-08 at 1 35 05 PM](https://github.com/user-attachments/assets/5845427e-82e2-4e1c-b814-c556890de771)
 
 <p align="center">
-<svg width="100%" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Animated line path -->
-  <path id="linePath" fill="none">
-    <animate id="animatePath"
-      attributeName="d"
-      begin="0s;animatePath.end"
-      dur="5s"
-      values="m0,35 h0 ; m0,35 h900 ; m0,35 h900 ; m0,35 h0"
-      keyTimes="0;0.4;0.9;1" />
-  </path>
-
-  <!-- Text following the path -->
-  <text font-family="Fira Code, monospace"
-        font-size="30"
-        fill="#ff69b4"
-        text-anchor="middle"
+  <!-- Animated text -->
+  <text x="50%" y="50%" text-anchor="middle"
         dominant-baseline="middle"
-        x="50%">
+        font-size="28"
+        font-family="Fira Code, monospace"
+        fill="#ff69b4">
 
-    <textPath href="#linePath">
-      Hi 👋, I'm Nupriya — AI/ML Engineer 🚀
-    </textPath>
+    Hi 👋, I'm Nupriya — AI/ML Engineer 🚀
 
+    <animate attributeName="opacity"
+             values="0;1;1;0"
+             dur="4s"
+             repeatCount="indefinite"/>
   </text>
 
 </svg>
 </p>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nupriya&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
   <img src="https://visitcount.itsvg.in/api?id=nupriya&icon=5&color=12"/>
