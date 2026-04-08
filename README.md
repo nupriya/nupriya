@@ -1,3 +1,5 @@
+![WhatsApp Image 2026-04-08 at 1 35 05 PM](https://github.com/user-attachments/assets/5845427e-82e2-4e1c-b814-c556890de771)
+
 <!-- 🌑 DARK HEADER -->
 ## 👋 About Me
 
