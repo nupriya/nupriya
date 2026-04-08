@@ -1,8 +1,4 @@
 <!-- 🌑 DARK HEADER -->
-<h1 align="center">💫 About Me</h1>
-
----
-
 ## 👋 About Me
 
 Hi, I'm **Nupriya** 💫  
