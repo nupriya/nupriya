@@ -1,24 +1,7 @@
 ![WhatsApp Image 2026-04-08 at 1 35 05 PM](https://github.com/user-attachments/assets/5845427e-82e2-4e1c-b814-c556890de771)
 
 <p align="center">
-<svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Animated text -->
-  <text x="50%" y="50%" text-anchor="middle"
-        dominant-baseline="middle"
-        font-size="28"
-        font-family="Fira Code, monospace"
-        fill="#ff69b4">
-
-    Hi 👋, I'm Nupriya — AI/ML Engineer 🚀
-
-    <animate attributeName="opacity"
-             values="0;1;1;0"
-             dur="4s"
-             repeatCount="indefinite"/>
-  </text>
-
-</svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nupriya;AI%2FML+Engineer+🧠;Building+Farmoid+🌾;Turning+Data+into+Intelligence+✨" />
 </p>
  
 <p align="center">
