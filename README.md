@@ -127,7 +127,6 @@ I love combining **technology + creativity** — from AI systems to visual Pytho
 </p>
 
 ---
-
 ## 🔝 Top Contributed Repo
 
 <p align="center">
@@ -135,6 +134,14 @@ I love combining **technology + creativity** — from AI systems to visual Pytho
 </p>
 
 ---
+
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/rajap535-cell/Raya-v01">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajap535-cell&repo=Raya-v01&theme=tokyonight" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=nupriya&icon=5&color=12"/>
